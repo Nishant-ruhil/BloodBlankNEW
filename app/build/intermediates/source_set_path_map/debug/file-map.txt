@@ -1,0 +1,31 @@
+com.example.bloodblank.app-jetified-viewpager2-1.0.0-0 C:\Users\asus\.gradle\caches\transforms-3\0ec5583185e3ee5ad06864d8f6d804c3\transformed\jetified-viewpager2-1.0.0\res
+com.example.bloodblank.app-navigation-fragment-2.3.5-1 C:\Users\asus\.gradle\caches\transforms-3\10f2d5f9b8247d81a6b5c7dd557f8a1f\transformed\navigation-fragment-2.3.5\res
+com.example.bloodblank.app-jetified-savedstate-1.1.0-2 C:\Users\asus\.gradle\caches\transforms-3\14b1cfdd1d468394e13eb8ecb761d0fc\transformed\jetified-savedstate-1.1.0\res
+com.example.bloodblank.app-navigation-common-2.3.5-3 C:\Users\asus\.gradle\caches\transforms-3\309cd7198bc28cf4cb5ca32679ad4feb\transformed\navigation-common-2.3.5\res
+com.example.bloodblank.app-lifecycle-viewmodel-2.3.1-4 C:\Users\asus\.gradle\caches\transforms-3\353673b975db111af2da58f9f8b69ab9\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.bloodblank.app-jetified-play-services-base-17.1.0-5 C:\Users\asus\.gradle\caches\transforms-3\4103935e64378a0115455e158e6aab8f\transformed\jetified-play-services-base-17.1.0\res
+com.example.bloodblank.app-media-1.0.0-6 C:\Users\asus\.gradle\caches\transforms-3\4d121cd3a132a108e855e10d93ec49cd\transformed\media-1.0.0\res
+com.example.bloodblank.app-recyclerview-1.1.0-7 C:\Users\asus\.gradle\caches\transforms-3\53fd0c2e66c2dab503c0c5aa292ea840\transformed\recyclerview-1.1.0\res
+com.example.bloodblank.app-material-1.4.0-8 C:\Users\asus\.gradle\caches\transforms-3\550ab352b566f97f7fa08cb5614cf6fb\transformed\material-1.4.0\res
+com.example.bloodblank.app-navigation-runtime-2.3.5-9 C:\Users\asus\.gradle\caches\transforms-3\6fa725c96451fe8566dcca8e0cd3234e\transformed\navigation-runtime-2.3.5\res
+com.example.bloodblank.app-fragment-1.3.6-10 C:\Users\asus\.gradle\caches\transforms-3\77e6236ce103a67d6273db8a44b5ceff\transformed\fragment-1.3.6\res
+com.example.bloodblank.app-cardview-1.0.0-11 C:\Users\asus\.gradle\caches\transforms-3\9998e717e80c621ab1f71194df71459b\transformed\cardview-1.0.0\res
+com.example.bloodblank.app-appcompat-1.3.1-12 C:\Users\asus\.gradle\caches\transforms-3\a3a3cdc1bb398ed76355bb7be0c80e90\transformed\appcompat-1.3.1\res
+com.example.bloodblank.app-coordinatorlayout-1.1.0-13 C:\Users\asus\.gradle\caches\transforms-3\a694f48554b43a4196bfc6467b21d2a7\transformed\coordinatorlayout-1.1.0\res
+com.example.bloodblank.app-browser-1.0.0-14 C:\Users\asus\.gradle\caches\transforms-3\b48663e5bb28f16c24cccf8ee180b0af\transformed\browser-1.0.0\res
+com.example.bloodblank.app-navigation-ui-2.3.5-15 C:\Users\asus\.gradle\caches\transforms-3\bad9152d5875b840fb88b8620d58b730\transformed\navigation-ui-2.3.5\res
+com.example.bloodblank.app-core-1.5.0-16 C:\Users\asus\.gradle\caches\transforms-3\c1b8d746361150298ebf36c7ec9c592a\transformed\core-1.5.0\res
+com.example.bloodblank.app-jetified-play-services-basement-17.1.0-17 C:\Users\asus\.gradle\caches\transforms-3\c5202ff4ce36fa5604a7e33d98e5f889\transformed\jetified-play-services-basement-17.1.0\res
+com.example.bloodblank.app-lifecycle-runtime-2.3.1-18 C:\Users\asus\.gradle\caches\transforms-3\c5f8018a7d7facfadc8e3ddaff441af8\transformed\lifecycle-runtime-2.3.1\res
+com.example.bloodblank.app-drawerlayout-1.1.1-19 C:\Users\asus\.gradle\caches\transforms-3\eebdd70ac702d65f0d39ca09d69c0530\transformed\drawerlayout-1.1.1\res
+com.example.bloodblank.app-jetified-appcompat-resources-1.3.1-20 C:\Users\asus\.gradle\caches\transforms-3\ef7e4a63fe50de2efbcf22d1b791a4c0\transformed\jetified-appcompat-resources-1.3.1\res
+com.example.bloodblank.app-constraintlayout-2.1.1-21 C:\Users\asus\.gradle\caches\transforms-3\f702f5f27b930009e6eebfc374e598c3\transformed\constraintlayout-2.1.1\res
+com.example.bloodblank.app-transition-1.3.0-22 C:\Users\asus\.gradle\caches\transforms-3\fbc44a0c5fdaa70fa5790c68eb7e3f7c\transformed\transition-1.3.0\res
+com.example.bloodblank.app-google-services-23 E:\Studio Project\BloodBank-main\app\build\generated\res\google-services\debug
+com.example.bloodblank.app-pngs-24 E:\Studio Project\BloodBank-main\app\build\generated\res\pngs\debug
+com.example.bloodblank.app-resValues-25 E:\Studio Project\BloodBank-main\app\build\generated\res\resValues\debug
+com.example.bloodblank.app-mergeDebugResources-26 E:\Studio Project\BloodBank-main\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.bloodblank.app-mergeDebugResources-27 E:\Studio Project\BloodBank-main\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.bloodblank.app-merged_res-28 E:\Studio Project\BloodBank-main\app\build\intermediates\merged_res\debug
+com.example.bloodblank.app-debug-29 E:\Studio Project\BloodBank-main\app\src\debug\res
+com.example.bloodblank.app-main-30 E:\Studio Project\BloodBank-main\app\src\main\res
